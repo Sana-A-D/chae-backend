@@ -1,0 +1,16 @@
+{
+  "name": "chae-aur-backend",
+  "version": "1.0.0",
+  "description": "backend at chaeaurcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chae"
+  ],
+  "author": "sana",
+  "license": "ISC"
+}
