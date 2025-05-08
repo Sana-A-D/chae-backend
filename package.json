@@ -4,6 +4,7 @@
   "description": "backend at chaeaurcode",
   "main": "index.js",
   "scripts": {
+    "type":"module",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,5 +13,9 @@
     "chae"
   ],
   "author": "sana",
-  "license": "ISC"
+  "license": "ISC",
+
+  "devDependencies": {
+    "nodemon":"^3.0.1"
+  }
 }
