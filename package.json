@@ -4,9 +4,9 @@
   "description": "backend at chaeaurcode",
   "main": "index.js",
   "scripts": {
-    "type":"module",
+    "type": "module",
     "dev": "nodemon src/index.js"
-    },
+  },
   "keywords": [
     "javascript",
     "backend",
@@ -14,8 +14,8 @@
   ],
   "author": "sana",
   "license": "ISC",
-
   "devDependencies": {
-    "nodemon":"^3.0.1"
+    "nodemon": "^3.0.1",
+    "prettier": "^3.5.3"
   }
 }
